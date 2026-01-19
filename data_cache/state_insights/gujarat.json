@@ -1,0 +1,18 @@
+{
+    "state": "Gujarat",
+    "metrics": {
+        "total_enrollments": 22879,
+        "state_share_percent": 4.54,
+        "top_district": {
+            "name": "Ahmedabad",
+            "share_percent": 8.5
+        },
+        "age_distribution_percent": {
+            "0_5": 63.8,
+            "5_17": 29.7,
+            "18+": 6.5
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "state": "Rajasthan",
+    "metrics": {
+        "total_enrollments": 28751,
+        "state_share_percent": 5.7,
+        "top_district": {
+            "name": "Jaipur",
+            "share_percent": 8.3
+        },
+        "age_distribution_percent": {
+            "0_5": 66.7,
+            "5_17": 32.2,
+            "18+": 1.2
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

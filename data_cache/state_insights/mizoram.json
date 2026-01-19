@@ -1,0 +1,18 @@
+{
+    "state": "Mizoram",
+    "metrics": {
+        "total_enrollments": 794,
+        "state_share_percent": 0.16,
+        "top_district": {
+            "name": "Aizawl",
+            "share_percent": 33.6
+        },
+        "age_distribution_percent": {
+            "0_5": 68.7,
+            "5_17": 22.9,
+            "18+": 8.5
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "moderate"
+    }
+}

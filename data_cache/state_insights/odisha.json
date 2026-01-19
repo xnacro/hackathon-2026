@@ -1,0 +1,18 @@
+{
+    "state": "Odisha",
+    "metrics": {
+        "total_enrollments": 23213,
+        "state_share_percent": 4.6,
+        "top_district": {
+            "name": "Ganjam",
+            "share_percent": 7.5
+        },
+        "age_distribution_percent": {
+            "0_5": 80.3,
+            "5_17": 19.4,
+            "18+": 0.3
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

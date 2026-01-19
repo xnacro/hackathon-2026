@@ -1,0 +1,18 @@
+{
+    "state": "Daman and Diu",
+    "metrics": {
+        "total_enrollments": 35,
+        "state_share_percent": 0.01,
+        "top_district": {
+            "name": "Daman",
+            "share_percent": 51.4
+        },
+        "age_distribution_percent": {
+            "0_5": 88.1,
+            "5_17": 11.9,
+            "18+": 0
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

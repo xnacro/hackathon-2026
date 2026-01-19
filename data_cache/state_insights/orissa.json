@@ -1,0 +1,18 @@
+{
+    "state": "Orissa",
+    "metrics": {
+        "total_enrollments": 1807,
+        "state_share_percent": 0.36,
+        "top_district": {
+            "name": "Khordha",
+            "share_percent": 15.7
+        },
+        "age_distribution_percent": {
+            "0_5": 84.9,
+            "5_17": 15.1,
+            "18+": 0
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

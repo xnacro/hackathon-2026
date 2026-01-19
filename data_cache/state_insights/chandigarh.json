@@ -1,0 +1,18 @@
+{
+    "state": "Chandigarh",
+    "metrics": {
+        "total_enrollments": 400,
+        "state_share_percent": 0.08,
+        "top_district": {
+            "name": "Chandigarh",
+            "share_percent": 99.8
+        },
+        "age_distribution_percent": {
+            "0_5": 88.7,
+            "5_17": 10.4,
+            "18+": 0.9
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

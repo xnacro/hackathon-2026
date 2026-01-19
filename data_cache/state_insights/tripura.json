@@ -1,0 +1,18 @@
+{
+    "state": "Tripura",
+    "metrics": {
+        "total_enrollments": 1721,
+        "state_share_percent": 0.34,
+        "top_district": {
+            "name": "West Tripura",
+            "share_percent": 27.6
+        },
+        "age_distribution_percent": {
+            "0_5": 62.7,
+            "5_17": 34.2,
+            "18+": 3.1
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "moderate"
+    }
+}

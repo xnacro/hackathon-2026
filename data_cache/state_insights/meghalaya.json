@@ -1,0 +1,18 @@
+{
+    "state": "Meghalaya",
+    "metrics": {
+        "total_enrollments": 2236,
+        "state_share_percent": 0.44,
+        "top_district": {
+            "name": "East Khasi Hills",
+            "share_percent": 35.9
+        },
+        "age_distribution_percent": {
+            "0_5": 19.4,
+            "5_17": 49.9,
+            "18+": 30.7
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "moderate"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "state": "Assam",
+    "metrics": {
+        "total_enrollments": 16017,
+        "state_share_percent": 3.18,
+        "top_district": {
+            "name": "Cachar",
+            "share_percent": 8.5
+        },
+        "age_distribution_percent": {
+            "0_5": 59.9,
+            "5_17": 29.9,
+            "18+": 10.2
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

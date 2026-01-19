@@ -1,0 +1,18 @@
+{
+    "state": "Madhya Pradesh",
+    "metrics": {
+        "total_enrollments": 24810,
+        "state_share_percent": 4.92,
+        "top_district": {
+            "name": "Indore",
+            "share_percent": 3.8
+        },
+        "age_distribution_percent": {
+            "0_5": 68.6,
+            "5_17": 29.2,
+            "18+": 2.2
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

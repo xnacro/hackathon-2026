@@ -1,0 +1,18 @@
+{
+    "state": "West  Bengal",
+    "metrics": {
+        "total_enrollments": 12,
+        "state_share_percent": 0,
+        "top_district": {
+            "name": "Hooghly",
+            "share_percent": 100
+        },
+        "age_distribution_percent": {
+            "0_5": 66.7,
+            "5_17": 33.3,
+            "18+": 0
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

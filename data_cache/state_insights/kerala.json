@@ -1,0 +1,18 @@
+{
+    "state": "Kerala",
+    "metrics": {
+        "total_enrollments": 17769,
+        "state_share_percent": 3.52,
+        "top_district": {
+            "name": "Malappuram",
+            "share_percent": 12.5
+        },
+        "age_distribution_percent": {
+            "0_5": 69.5,
+            "5_17": 28.3,
+            "18+": 2.3
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

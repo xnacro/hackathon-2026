@@ -1,0 +1,18 @@
+{
+    "state": "Sikkim",
+    "metrics": {
+        "total_enrollments": 586,
+        "state_share_percent": 0.12,
+        "top_district": {
+            "name": "East",
+            "share_percent": 23.9
+        },
+        "age_distribution_percent": {
+            "0_5": 43.3,
+            "5_17": 51.5,
+            "18+": 5.2
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

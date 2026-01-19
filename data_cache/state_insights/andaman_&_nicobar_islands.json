@@ -1,0 +1,18 @@
+{
+    "state": "Andaman & Nicobar Islands",
+    "metrics": {
+        "total_enrollments": 53,
+        "state_share_percent": 0.01,
+        "top_district": {
+            "name": "Andamans",
+            "share_percent": 64.2
+        },
+        "age_distribution_percent": {
+            "0_5": 93,
+            "5_17": 7,
+            "18+": 0
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

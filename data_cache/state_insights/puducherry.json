@@ -1,0 +1,18 @@
+{
+    "state": "Puducherry",
+    "metrics": {
+        "total_enrollments": 509,
+        "state_share_percent": 0.1,
+        "top_district": {
+            "name": "Puducherry",
+            "share_percent": 71.7
+        },
+        "age_distribution_percent": {
+            "0_5": 91.2,
+            "5_17": 7.2,
+            "18+": 1.6
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

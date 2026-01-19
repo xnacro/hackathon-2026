@@ -1,0 +1,18 @@
+{
+    "state": "Arunachal Pradesh",
+    "metrics": {
+        "total_enrollments": 853,
+        "state_share_percent": 0.17,
+        "top_district": {
+            "name": "Papum Pare",
+            "share_percent": 14.7
+        },
+        "age_distribution_percent": {
+            "0_5": 43.6,
+            "5_17": 54.6,
+            "18+": 1.7
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

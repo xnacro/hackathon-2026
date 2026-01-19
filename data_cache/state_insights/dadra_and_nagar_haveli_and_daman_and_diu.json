@@ -1,0 +1,18 @@
+{
+    "state": "Dadra and Nagar Haveli and Daman and Diu",
+    "metrics": {
+        "total_enrollments": 60,
+        "state_share_percent": 0.01,
+        "top_district": {
+            "name": "Dadra and Nagar Haveli",
+            "share_percent": 55
+        },
+        "age_distribution_percent": {
+            "0_5": 77.8,
+            "5_17": 13.6,
+            "18+": 8.6
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

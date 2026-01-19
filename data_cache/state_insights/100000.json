@@ -1,0 +1,18 @@
+{
+    "state": "100000",
+    "metrics": {
+        "total_enrollments": 9,
+        "state_share_percent": 0,
+        "top_district": {
+            "name": "100000",
+            "share_percent": 100
+        },
+        "age_distribution_percent": {
+            "0_5": 0,
+            "5_17": 7.7,
+            "18+": 92.3
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

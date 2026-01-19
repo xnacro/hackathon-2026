@@ -1,0 +1,18 @@
+{
+    "state": "Pondicherry",
+    "metrics": {
+        "total_enrollments": 412,
+        "state_share_percent": 0.08,
+        "top_district": {
+            "name": "Pondicherry",
+            "share_percent": 79.4
+        },
+        "age_distribution_percent": {
+            "0_5": 93.8,
+            "5_17": 6.2,
+            "18+": 0
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

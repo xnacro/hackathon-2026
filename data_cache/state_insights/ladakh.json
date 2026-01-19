@@ -1,0 +1,18 @@
+{
+    "state": "Ladakh",
+    "metrics": {
+        "total_enrollments": 126,
+        "state_share_percent": 0.02,
+        "top_district": {
+            "name": "Kargil",
+            "share_percent": 75.4
+        },
+        "age_distribution_percent": {
+            "0_5": 66.8,
+            "5_17": 29.6,
+            "18+": 3.6
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "state": "Maharashtra",
+    "metrics": {
+        "total_enrollments": 38967,
+        "state_share_percent": 7.72,
+        "top_district": {
+            "name": "Pune",
+            "share_percent": 8.6
+        },
+        "age_distribution_percent": {
+            "0_5": 70.5,
+            "5_17": 27.1,
+            "18+": 2.4
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

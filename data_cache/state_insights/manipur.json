@@ -1,0 +1,18 @@
+{
+    "state": "Manipur",
+    "metrics": {
+        "total_enrollments": 1637,
+        "state_share_percent": 0.32,
+        "top_district": {
+            "name": "Senapati",
+            "share_percent": 19.7
+        },
+        "age_distribution_percent": {
+            "0_5": 33.3,
+            "5_17": 64.6,
+            "18+": 2.1
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

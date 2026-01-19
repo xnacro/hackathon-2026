@@ -1,0 +1,18 @@
+{
+    "state": "Lakshadweep",
+    "metrics": {
+        "total_enrollments": 74,
+        "state_share_percent": 0.01,
+        "top_district": {
+            "name": "Lakshadweep",
+            "share_percent": 100
+        },
+        "age_distribution_percent": {
+            "0_5": 93.6,
+            "5_17": 6.4,
+            "18+": 0
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

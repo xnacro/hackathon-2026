@@ -1,0 +1,18 @@
+{
+    "state": "Punjab",
+    "metrics": {
+        "total_enrollments": 10686,
+        "state_share_percent": 2.12,
+        "top_district": {
+            "name": "Ludhiana",
+            "share_percent": 11.4
+        },
+        "age_distribution_percent": {
+            "0_5": 78.1,
+            "5_17": 18,
+            "18+": 3.9
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "state": "Uttar Pradesh",
+    "metrics": {
+        "total_enrollments": 57957,
+        "state_share_percent": 11.49,
+        "top_district": {
+            "name": "Azamgarh",
+            "share_percent": 2.7
+        },
+        "age_distribution_percent": {
+            "0_5": 48.8,
+            "5_17": 49.3,
+            "18+": 2
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

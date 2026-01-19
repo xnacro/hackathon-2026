@@ -1,0 +1,18 @@
+{
+    "state": "Jharkhand",
+    "metrics": {
+        "total_enrollments": 11606,
+        "state_share_percent": 2.3,
+        "top_district": {
+            "name": "Dhanbad",
+            "share_percent": 9.2
+        },
+        "age_distribution_percent": {
+            "0_5": 59.3,
+            "5_17": 39.5,
+            "18+": 1.2
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

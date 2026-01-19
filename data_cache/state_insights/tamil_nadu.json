@@ -1,0 +1,18 @@
+{
+    "state": "Tamil Nadu",
+    "metrics": {
+        "total_enrollments": 45075,
+        "state_share_percent": 8.94,
+        "top_district": {
+            "name": "Kancheepuram",
+            "share_percent": 4.8
+        },
+        "age_distribution_percent": {
+            "0_5": 83.5,
+            "5_17": 16,
+            "18+": 0.5
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

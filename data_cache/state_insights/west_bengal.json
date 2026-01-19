@@ -1,0 +1,18 @@
+{
+    "state": "West Bengal",
+    "metrics": {
+        "total_enrollments": 39993,
+        "state_share_percent": 7.93,
+        "top_district": {
+            "name": "North 24 Parganas",
+            "share_percent": 8.5
+        },
+        "age_distribution_percent": {
+            "0_5": 71.6,
+            "5_17": 26.3,
+            "18+": 2.1
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

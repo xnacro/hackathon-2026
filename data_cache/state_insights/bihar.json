@@ -1,0 +1,18 @@
+{
+    "state": "Bihar",
+    "metrics": {
+        "total_enrollments": 31336,
+        "state_share_percent": 6.21,
+        "top_district": {
+            "name": "Patna",
+            "share_percent": 5.7
+        },
+        "age_distribution_percent": {
+            "0_5": 41.2,
+            "5_17": 56.3,
+            "18+": 2.5
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

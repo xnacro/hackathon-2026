@@ -1,0 +1,18 @@
+{
+    "state": "Jammu & Kashmir",
+    "metrics": {
+        "total_enrollments": 65,
+        "state_share_percent": 0.01,
+        "top_district": {
+            "name": "Jammu",
+            "share_percent": 49.2
+        },
+        "age_distribution_percent": {
+            "0_5": 87.7,
+            "5_17": 12.3,
+            "18+": 0
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "high"
+    }
+}

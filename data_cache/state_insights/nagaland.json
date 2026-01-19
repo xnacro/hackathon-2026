@@ -1,0 +1,18 @@
+{
+    "state": "Nagaland",
+    "metrics": {
+        "total_enrollments": 1221,
+        "state_share_percent": 0.24,
+        "top_district": {
+            "name": "Dimapur",
+            "share_percent": 14.4
+        },
+        "age_distribution_percent": {
+            "0_5": 28.8,
+            "5_17": 64.5,
+            "18+": 6.7
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

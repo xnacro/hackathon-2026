@@ -1,0 +1,18 @@
+{
+    "state": "Himachal Pradesh",
+    "metrics": {
+        "total_enrollments": 4579,
+        "state_share_percent": 0.91,
+        "top_district": {
+            "name": "Kangra",
+            "share_percent": 25.5
+        },
+        "age_distribution_percent": {
+            "0_5": 93.8,
+            "5_17": 5,
+            "18+": 1.2
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "moderate"
+    }
+}

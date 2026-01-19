@@ -1,0 +1,18 @@
+{
+    "state": "Andhra Pradesh",
+    "metrics": {
+        "total_enrollments": 31314,
+        "state_share_percent": 6.21,
+        "top_district": {
+            "name": "East Godavari",
+            "share_percent": 6.6
+        },
+        "age_distribution_percent": {
+            "0_5": 85.7,
+            "5_17": 12.9,
+            "18+": 1.4
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

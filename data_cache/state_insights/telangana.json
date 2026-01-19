@@ -1,0 +1,18 @@
+{
+    "state": "Telangana",
+    "metrics": {
+        "total_enrollments": 22008,
+        "state_share_percent": 4.36,
+        "top_district": {
+            "name": "K.v. Rangareddy",
+            "share_percent": 10.2
+        },
+        "age_distribution_percent": {
+            "0_5": 79.4,
+            "5_17": 19.7,
+            "18+": 0.9
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

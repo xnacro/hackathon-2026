@@ -1,0 +1,18 @@
+{
+    "state": "Haryana",
+    "metrics": {
+        "total_enrollments": 7604,
+        "state_share_percent": 1.51,
+        "top_district": {
+            "name": "Gurgaon",
+            "share_percent": 8.3
+        },
+        "age_distribution_percent": {
+            "0_5": 86.7,
+            "5_17": 11.7,
+            "18+": 1.5
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}

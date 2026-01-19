@@ -1,0 +1,18 @@
+{
+    "state": "Delhi",
+    "metrics": {
+        "total_enrollments": 3483,
+        "state_share_percent": 0.69,
+        "top_district": {
+            "name": "South West Delhi",
+            "share_percent": 19.9
+        },
+        "age_distribution_percent": {
+            "0_5": 69.9,
+            "5_17": 26.2,
+            "18+": 3.9
+        },
+        "yoy_growth_percent": -100,
+        "risk_level": "low"
+    }
+}
