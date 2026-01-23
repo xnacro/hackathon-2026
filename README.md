@@ -152,7 +152,7 @@ The system is designed to be **scalable, interpretable, and pilot-ready** for re
 
 ## 🛡️ Data Disclaimer
 
-* This project uses **sample Aadhaar datasets**
+* This project strictly uses **Aadhaar datasets provided by UIDAI** 
 * No private, sensitive, or real Aadhaar data is used
 * Built strictly for **research and hackathon purposes**
 
